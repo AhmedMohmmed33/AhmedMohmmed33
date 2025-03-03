@@ -12,4 +12,4 @@ I'm a passionate data analyst with a strong research interest, eager to leverage
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Draw.io](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/768px-Diagrams.net_Logo.svg.png?style=for-the-badge&logo=draw.io&logoColor=white)
 ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/146px-Git_icon.svg.png?20220905010122?style=for-the-badge&logo=git&logoColor=orange)
-![GitHub](https://en.m.wikipedia.org/wiki/File:Octicons-mark-github.svg?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://en.m.wikipedia.org/wiki/File:Octicons-mark-github.svg?style=for-the-badge&logo=github&logoColor=white)]
