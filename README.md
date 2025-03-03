@@ -5,7 +5,7 @@ I'm a passionate data analyst with a strong research interest, eager to leverage
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
