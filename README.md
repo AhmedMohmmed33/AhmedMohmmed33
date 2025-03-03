@@ -5,13 +5,20 @@ I'm a passionate data analyst with a strong research interest, eager to leverage
 ---
 
 # 💻 Tech Stack:
-**Tableau**
-**Excel**
-**SQL**
-**GIT**
-**GitHub**
-**Draw.io**
-**Figma**
+
+-**Tableau**
+
+-**Excel**
+
+-**SQL**
+
+-**GIT**
+
+-**GitHub**
+
+-**Draw.io**
+
+-**Figma**
 
 ---
 
@@ -20,6 +27,6 @@ I'm a passionate data analyst with a strong research interest, eager to leverage
 Feel free to connect with me on the following platforms:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohammed-112637344/)
-[![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ahmedelsayed6542404@gmail.com)
+[![Gmail](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](ahmedelsayed6542404@gmail.com)
 
 
