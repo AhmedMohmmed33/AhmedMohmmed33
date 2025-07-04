@@ -1,7 +1,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there, I'm Ahmed Mohammed
 
-My name is **Ahmed Mohamed Elsayed**. Final Year AI Student with a Passion for Data Analysis and Insights.
-I'm a passionate data analyst with a strong research interest, eager to leverage my combined AI and data analysis knowledge to solve problems and extract meaningful insights. My excellent writing skills allow me to communicate complex data findings to various audiences.
+I’m **Ahmed Mohamed Elsayed**, a graduate of the **Faculty of Engineering, Artificial Intelligence Program at Mansoura University**.
+
+I specialize in **data analysis**, blending my engineering mindset with a strong foundation in **machine learning, Python, SQL, and BI tools like Tableau and Power BI**. My goal is to turn complex datasets into clear, actionable insights that drive smart decision-making.
+
+I’m passionate about using AI and data to solve real-world problems — and I’m always learning, building, and collaborating on meaningful projects.
 
 ---
 
@@ -9,6 +12,7 @@ I'm a passionate data analyst with a strong research interest, eager to leverage
 
 ![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
