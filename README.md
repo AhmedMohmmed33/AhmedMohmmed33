@@ -10,15 +10,24 @@ I’m passionate about using AI and data to solve real-world problems — and I�
 
 ## 💻 Tech Stack:
 
-![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![draw.io](https://img.shields.io/badge/Draw.io-%230078D4.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
+- 💾 **Databases & Queries**  
+  ![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+- 📊 **Data Visualization & BI**  
+  ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+- 🐍 **Programming & Scripting**  
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+- 🔧 **Version Control**  
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+- 🎨 **Design & Prototyping**  
+  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![draw.io](https://img.shields.io/badge/Draw.io-%230078D4.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
 ---
 
